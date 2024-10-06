@@ -29,11 +29,3 @@ export default function MealItem({ meal }) {
         </li>
     )
 }
-                // <button onClick={() => onSelectMeal(meal)}>
-                // </button>
-                // onSelect={handlePrice}
-    //                 const [formatedPrice, isFormatedPrice] = useState()
-
-    // function handlePrice(event) {
-    //     isFormatedPrice(event);
-    // }
